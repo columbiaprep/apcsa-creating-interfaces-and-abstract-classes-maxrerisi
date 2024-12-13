@@ -4,4 +4,5 @@ private int diceValue;
 public int calculateDamage() {return 0;}
 
 
+
 }

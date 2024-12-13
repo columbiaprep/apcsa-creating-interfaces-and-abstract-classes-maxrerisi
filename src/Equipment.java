@@ -1,4 +1,4 @@
-public abstract class Equipment extends Item implements StatModifiers{
+public abstract class Equipment extends Item{
     private String typeOfEquipment;
 
 

@@ -1,8 +1,10 @@
-public class Item interface statModifiers{
+public class Item interface StatModifiers{
     private double weight;
     private int cost;
     // private statModifiers itemStatMods;
     private int quantity;
+    private String name;
+    
 
 
 }
