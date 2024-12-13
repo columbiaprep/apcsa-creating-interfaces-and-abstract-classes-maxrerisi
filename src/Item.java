@@ -1,4 +1,4 @@
-public class Item interface StatModifiers{
+public class Item implements StatModifiers{
     private double weight;
     private int cost;
     // private statModifiers itemStatMods;
